@@ -1,5 +1,5 @@
 # BLE_blink_LED
-seeed XIAO rfn52840とBLEで接続してスマホ側からLEDの点灯消灯を操作する
+seeed XIAO nrf52840とBLEで接続してスマホ側からLEDの点灯消灯を操作する
 
 ペアリング状態：青色に点灯
 接続後：青緑に点灯
